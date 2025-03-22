@@ -174,7 +174,7 @@ class _HomeState extends State<Home> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.search),
-            label: 'Search',
+            label: 'Search', 
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.shopping_cart),
